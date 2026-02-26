@@ -1,0 +1,29 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "project-cartr",
+      "description": "E-commerce platform checkout flow",
+      "imageUrl": "https://picsum.photos/seed/cartr/800/600",
+      "imageHint": "ecommerce checkout"
+    },
+    {
+      "id": "project-monitair",
+      "description": "Healthcare communication platform with video calls",
+      "imageUrl": "https://picsum.photos/seed/monitair/800/600",
+      "imageHint": "healthcare app"
+    },
+    {
+      "id": "project-vax",
+      "description": "Healthcare management system dashboard",
+      "imageUrl": "https://picsum.photos/seed/vax/800/600",
+      "imageHint": "medical dashboard"
+    },
+    {
+      "id": "project-backend",
+      "description": "Abstract server and API architecture visualization",
+      "imageUrl": "https://picsum.photos/seed/api/800/600",
+      "imageHint": "server architecture"
+    }
+  ]
+}
